@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science @ SJSU
 -------------------
 
-I am a student at SJSU, majoring in Data Science. I'm thrilled to learn new things about the beauty of data in our lives. The great hand power of data comes with the great responsibility of not accidentally deleting the database with a misplaced semicolon... or was that just me? My language skills include Java, Python, R, C++, JavaScript, and SQL. I wouldn't say I'm proficient in them, but I strive to build my skills every day. I want to learn and explore new things.
+I am a student at SJSU, majoring in Data Science. I'm thrilled to learn new things about the beauty of data in our lives. 
+
+The great hand power of data comes with the great responsibility of not accidentally deleting the database with a misplaced semicolon... or was that just me? 
+
+My language skills include Java, Python, R, C++, JavaScript, and SQL. 
+
+I wouldn't say I'm proficient in them, but I strive to build my skills every day. I want to learn and explore new things.
 
 * 🌍  I'm based in San Francisco Bay Area
 * ✉️  You can contact me at [nguyenminhtruong@gmail.com](mailto:nguyenminhtruong@gmail.com)

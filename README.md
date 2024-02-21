@@ -16,7 +16,7 @@ I wouldn't say I'm proficient in them, but I strive to build my skills every day
 * ✉️  You can contact me at [nguyenminhtruong@gmail.com](mailto:nguyenminhtruong@gmail.com)
 * 🧠  I'm learning Swift, Azure, Pandas, Numpy, Plotly, Matplotlib, API, Kaggle Project.
 * 🤝  I'm open to collaborating on any data project
-* ⚡  An old man once told me, "Genius is 1% talent and 99% hard work
+* ⚡  An old man once told me, "Genius is 1% talent and 99% hard work"
 
 ### Skills
 

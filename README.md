@@ -6,15 +6,9 @@ Data Science @ SJSU
 
 I am a student at SJSU, majoring in Data Science. I'm thrilled to learn new things about the beauty of data in our lives. 
 
-The great hand power of data comes with the great responsibility of not accidentally deleting the database with a misplaced semicolon... or was that just me? 
-
-My language skills include Java, Python, R, C++, JavaScript, and SQL. 
-
-I wouldn't say I'm proficient in them, but I strive to build my skills every day. I want to learn and explore new things.
+The great hand power of data comes with the great responsibility
 
 * 🌍  I'm based in San Francisco Bay Area
-* ✉️  You can contact me at [nguyenminhtruong1610@gmail.com](mailto:nguyenminhtruong@gmail.com)
-* 🧠  I'm learning Swift, Azure, Pandas, Numpy, Plotly, Matplotlib, API, Kaggle Project.
 * 🤝  I'm open to collaborating on any data project
 * ⚡  An old man once told me, "Genius is 1% talent and 99% hard work"
 
